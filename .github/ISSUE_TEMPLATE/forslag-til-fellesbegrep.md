@@ -1,7 +1,7 @@
 ---
 name: Forslag til fellesbegrep
 about: Foreslå en kandidat for et fellesbegrep
-title: "[Forslag til begrep] "
+title: "[Forslag til begrep] **Den foreslåtte termen**"
 labels: ''
 assignees: ''
 
@@ -14,4 +14,4 @@ Formuler et forslag til term
 Formuler et forslag til definisjon
 
 **Referanser til foreslått definisjon**
-Oppgi eventuelle referanser til den foreslåtte definisjonen, og/eller der begrepet (uten definisjon) er i bruk).
+Oppgi eventuelle referanser til den foreslåtte definisjonen, eller der begrepet (uten definisjon) er i bruk.

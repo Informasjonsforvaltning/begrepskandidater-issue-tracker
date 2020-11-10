@@ -15,6 +15,3 @@ Formuler et forslag til definisjon
 
 **Forslag til referanse til definisjon/bruk**
 Formuler eventuelt et forslag til referanse til definisjon/bruk
-
-**Additional context**
-Add any other context or screenshots about the feature request here.

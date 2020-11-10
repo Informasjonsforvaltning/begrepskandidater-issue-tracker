@@ -13,5 +13,5 @@ Formuler et forslag til term
 **Forslag til definisjon**
 Formuler et forslag til definisjon
 
-**Forslag til referanse til definisjon/bruk**
-Formuler eventuelt et forslag til referanse til definisjon/bruk
+**Referanser til foreslått definisjon**
+Oppgi eventuelle referanser til den foreslåtte definisjonen, og/eller der begrepet (uten definisjon) er i bruk).
